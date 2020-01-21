@@ -2,4 +2,5 @@ Rencana Konten
 - Javascript
   * ES 6
   * Framework JS
+- Fundamental Data Structure
 - PHP Framework
